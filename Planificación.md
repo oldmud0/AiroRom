@@ -1,5 +1,3 @@
-Planificación
-==
 _A continuación se incluye una planificación aproximada de las diferentes
 etapas del trabajo._
 

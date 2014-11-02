@@ -1,4 +1,3 @@
-# DRM en la actualidad
 *Resumen sobre DRM y últimos datos sobre el tema.*
 
 DRM (Digital Right Management): tecnologías de control de acceso para limitar

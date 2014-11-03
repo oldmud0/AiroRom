@@ -4,19 +4,10 @@ Estudiar su aplicabilidad sobre aplicaciones para dispositivos móviles._
 
 * **Relacionados con _DRM_**
   * Técnicas de protección de juego.
-    * Introducción a cifrado sobre tarjeta.
-    * Logo de Nintendo en cabecera de juegos.
-    * Archivos dentro de paquete.
-    * Uso de formato *download play*.
   * Explicar mecanismos encontrados.
   * Identificar características comunes de mecanismos.
-    * Algoritmos más eficientes.
-    * Tipos de ficheros más protegidos.
   * Nivel de protección de datos del juego y *motivo*.
   * Métodos de acceso al código del algoritmo y soluciones.
-    * Borrado de memoria.
-    * Cifrado de archivo por bloques.
-    * Lectura parcial de archivo.
 
 > [Desde Wikipedia](http://es.wikipedia.org/wiki/Gesti%C3%B3n_digital_de_derechos#.C2.BFC.C3.B3mo_afectan_al_software_libre.3F)
 >

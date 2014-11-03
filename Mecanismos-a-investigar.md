@@ -2,6 +2,8 @@
 *Lista de juegos a analizar durante el trabajo.*
 
 ## Proyectos abandonados
+*TODO: Añadir proyectos abandonados de [GbaTemp NDS Rom hacking forum](http://gbatemp.net/threads/translation-index-thread.193740/).*
+
 | Nombre del juego     | Plataforma | Detalles                    |
 | -------------------- | ---------- | --------------------------- |
 | WWII - Tank Battles  | PS2        | Nadie pudo abrir el fichero |

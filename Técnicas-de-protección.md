@@ -8,13 +8,13 @@ de videojuegos.*
 * Paquetes no inmediatos (punteros como múltiplos y suma).
 * Borrar en seguida ficheros de memoria para difícil localización.
 * Empaquetar archivos para acceso no inmediato de archivos.
-
 * Posibles tipos de algoritmos de cifrado:
   1. Se descifra todo el fichero aunque no se vaya a usar parte de él.
     * Se podría localizar en la RAM.
   2. Solo se descifra algún bloque o se escribe a 0 el resto.
     * Se podría buscar el texto que aparezca en pantalla en la RAM.
   3. Solo lo que se ve en la pantalla, desperdigado y con otro formato.
+
 
 * **Requisitos algoritmo óptimo**
   * Soporte para *todos* los archivos del juego.

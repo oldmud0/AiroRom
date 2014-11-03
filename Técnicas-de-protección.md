@@ -8,6 +8,7 @@ de videojuegos.*
 * Paquetes no inmediatos (punteros como múltiplos y suma).
 * Borrar en seguida ficheros de memoria para difícil localización.
 * Empaquetar archivos para acceso no inmediato de archivos.
+* Encapsular juego en *Download Play* (NDS).
 * Posibles tipos de algoritmos de cifrado:
   1. Se descifra todo el fichero aunque no se vaya a usar parte de él.
     * Se podría localizar en la RAM.

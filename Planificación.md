@@ -2,19 +2,19 @@ _A continuación se incluye una planificación aproximada de las diferentes
 etapas del trabajo._
 
 
-| Caracterización de algoritmos                 | S. 40 - S. 42 |
-| --------------------------------------------- | ------------- |
-| ~~Situación actual DRM~~                      | 29/09 - 01/10 |
-| Algoritmos existentes DRM                     | 02/10 - 09/10 |
-| Identificar las características de algoritmos | 10/10 - 12/10 |
-| Identificar categorías de algoritmos          | 13/10 - 15/10 |
-| Establecer requisitos para algoritmos seguros | 16/10 - 19/10 |
+| Caracterización de algoritmos                     | S. 40 - S. 42 |
+| ------------------------------------------------- | ------------- |
+| ~~Situación actual DRM~~                          | 29/09 - 01/10 |
+| Algoritmos existentes DRM                         | 02/10 - 09/10 |
+| ~~Identificar las características de algoritmos~~ | 10/10 - 12/10 |
+| ~~Identificar categorías de algoritmos~~          | 13/10 - 15/10 |
+| Establecer requisitos para algoritmos seguros     | 16/10 - 19/10 |
 
 
 | Escoger juegos a estudiar                     | S. 43 - S. 45 |
 | --------------------------------------------- | ------------- |
-| Encontrar proyectos con retrasos > 1 año      | 20/10 - 26/10 |
-| Ordenar juegos por número de ventas           | 27/10 - 05/11 |
+| Encontrar proyectos abandonados               | 20/10 - 26/10 |
+| ~~Ordenar juegos por número de ventas~~       | 27/10 - 05/11 |
 | Ordenar desarrolladores por juegos en mercado | 06/11 - 09/11 |
 
 

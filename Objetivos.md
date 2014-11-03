@@ -1,5 +1,5 @@
-_Encontrar, estudiar y explicar mécanismos de protección de datos (**DRM**)
-implementados en videojuegos (principalmente **Nintendo DS**).
+_Encontrar, estudiar y explicar mecanismos de protección de datos (**DRM**)
+implementados en videojuegos.
 Estudiar su aplicabilidad sobre aplicaciones para dispositivos móviles._
 
 * **Relacionados con _DRM_**

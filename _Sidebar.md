@@ -10,4 +10,5 @@
   * [Cifrado](Algoritmos-cifrado)
   * [Compresión](Algoritmos-compresión)
   * [Integridad](Algoritmos-integridad)
+  * [Comunicaciones](Protocolos-comunicaciones)
   * [Resumen](Técnicas-de-protección)

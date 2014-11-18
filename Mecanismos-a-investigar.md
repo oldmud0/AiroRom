@@ -6,28 +6,28 @@
 
 | Nombre del juego                              | Plataforma | Detalles                    |
 | --------------------------------------------- | ---------- | --------------------------- |
-| WWII - Tank Battles                           | PS2        | Nadie pudo abrir el fichero |
-| Brave fencer Musashi                          | PSX        | Nadie encontró los textos   |
-| Resident Evil 2                               | DC y GC    | Nadie creo compresor        |
+| WWII - Tank Battles                           | PS2        | Cifrado desconocido         |
+| Brave fencer Musashi                          | PSX        | Localización de textos      |
+| Resident Evil 2                               | DC y GC    | Falta compresor             |
 | Dragon Warrior VII                            | PSX        | Demasiada protección        |
-| Chi's Sweet Home: Chi ga Ouchi ni Yatte Kita! | NDS        | GbaTemp Abandonado          |
-| Code Geass: Hangyaku no Lelouch               | NDS        | GbaTemp Abandonado          |
-| Cross Treasures                               | NDS        | GbaTemp Abandonado          |
-| Custom Beat Battle Draglade 2                 | NDS        | GbaTemp Abandonado          |
-| Element Hunters                               | NDS        | GbaTemp Abandonado          |
-| Final Fantasy: The 4 Warriors of Light        | NDS        | GbaTemp Abandonado          |
-| Fire Emblem: Shadow Dragon                    | NDS        | GbaTemp Abandonado          |
-| Glory of Heracles                             | NDS        | GbaTemp Abandonado          |
-| Hajime no Ippo The Fighting! DS               | NDS        | GbaTemp Abandonado          |
-| Inazuma Eleven                                | NDS        | GbaTemp Abandonado          |
-| Kingdom Hearts 358/2 Days                     | NDS        | GbaTemp Abandonado          |
-| Mobile Suit Gundam 00                         | NDS        | GbaTemp Abandonado          |
-| Mysterious Dungeon: Shiren the Wanderer 2     | NDS        | GbaTemp Abandonado          |
-| Naruto: Ninja Destiny 2                       | NDS        | GbaTemp Abandonado          |
-| Naruto: Ninja Destiny 3                       | NDS        | GbaTemp Abandonado          |
-| Nostalgia                                     | NDS        | GbaTemp Abandonado          |
-| Super Robot Wars K                            | NDS        | GbaTemp Abandonado          |
-| Super Robot Taisen OG Saga: Mugen no Frontier | NDS        | GbaTemp Abandonado          |
+| Chi's Sweet Home: Chi ga Ouchi ni Yatte Kita! | NDS        | Falta insercción imágenes   |
+| Code Geass: Hangyaku no Lelouch               | NDS        | Falta editor de textos      |
+| Cross Treasures                               | NDS        | Abandonado                  |
+| Custom Beat Battle Draglade 2                 | NDS        | Falta editor de textos      |
+| Element Hunters                               | NDS        | Abandonado                  |
+| Final Fantasy: The 4 Warriors of Light        | NDS        | Traducción oficial          |
+| Fire Emblem: Shadow Dragon                    | NDS        | Traducción oficial          |
+| Glory of Heracles                             | NDS        | Traducción oficial          |
+| Hajime no Ippo The Fighting! DS               | NDS        | Abandonado                  |
+| Inazuma Eleven                                | NDS        | Traducción oficial          |
+| Kingdom Hearts 358/2 Days                     | NDS        | Traducción oficial          |
+| Mobile Suit Gundam 00                         | NDS        | Falta editor de textos      |
+| Mysterious Dungeon: Shiren the Wanderer 2     | NDS        | Hacks & Editor de textos    |
+| Naruto: Ninja Destiny 2                       | NDS        | Traducción oficial          |
+| Naruto: Ninja Destiny 3                       | NDS        | Abandonado                  |
+| Nostalgia                                     | NDS        | Traducción oficial          |
+| Super Robot Wars K                            | NDS        | Abandonado                  |
+| Super Robot Taisen OG Saga: Mugen no Frontier | NDS        | Falta editor de textos      |
 
 
 ## Juegos interesantes

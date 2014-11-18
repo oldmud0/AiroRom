@@ -51,6 +51,23 @@
 | High School Musical: ¡Prepárate para el musical!        | Contiene canciones                      |
 
 
+## Publicadores con más juegos en el mercado
+*Datos obtenidos a partir del script desarrollado __scenadvorter__.*
+
+| #   | Publicador         | Nº de juegos |
+| --- | ------------------ | ------------ |
+| 01  | Nintendo           | 684          |
+| 02  | Activision         | 379          |
+| 03  | UbiSoft            | 375          |
+| 04  | THQ                | 298          |
+| 05  | Electronic Arts    | 229          |
+| 06  | Konami             | 229          |
+| 07  | Bandai Namco Games | 218          |
+| 08  | Disney Interactive | 158          |
+| 09  | D3 Publisher       | 150          |
+| 10  | SEGA               | 144          |
+
+
 # Cifrado en consolas
 *Mecanismos de protección de datos implementados sobre consolas.*
 * Cifrado de juegos en Nintendo DS

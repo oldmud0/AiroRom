@@ -52,20 +52,39 @@
 
 
 ## Publicadores con más juegos en el mercado
-*Datos obtenidos a partir del script desarrollado __scenadvorter__.*
+*Datos obtenidos a partir del script desarrollado __scenadvorter__.
+Datos de ventas por publicador obtenidos de [VGChartz](http://www.vgchartz.com/gamedb/?name=&publisher=&platform=DS&genre=&minSales=0&results=200).*
 
-| #   | Publicador         | Nº de juegos |
-| --- | ------------------ | ------------ |
-| 01  | Nintendo           | 684          |
-| 02  | Activision         | 379          |
-| 03  | UbiSoft            | 375          |
-| 04  | THQ                | 298          |
-| 05  | Electronic Arts    | 229          |
-| 06  | Konami             | 229          |
-| 07  | Bandai Namco Games | 218          |
-| 08  | Disney Interactive | 158          |
-| 09  | D3 Publisher       | 150          |
-| 10  | SEGA               | 144          |
+1. Nintendo: 684 juegos
+  + New Super Mario Bros.
+  + Nintendogs
+2. Activision: 379 juegos
+  + Guitar Hero: On Tour
+  + LEGO Batman: The Videogame
+3. UbiSoft: 375 juegos
+  + Imagine: Babyz
+  + Imagine: Fashion Designer
+4. THQ: 298 juegos
+  + SpongeBob's Atlantis SquarePantis
+  + Bratz: Forever Diamondz
+5. Electronic Arts: 229 juegos
+  + MySims
+  + The Sims 2: Pets
+6. Konami: 229 juegos
+  + Scribblenauts
+  + Super Scribblenauts
+7. Bandai Namco Games: 218 juegos
+  + Tamagotchi Connection: Corner Shop
+  + Tamagotchi Connection: Corner Shop 2
+8. Disney Interactive: 158 juegos
+  + Club Penguin: Elite Penguin Force
+  + High School Musical: Makin' the Cut!
+9. D3 Publisher: 150 juegos
+  + Ben 10: Protector of Earth
+  + Ben 10: Alien Force
+10. SEGA: 144 juegos
+  + Mario & Sonic at the Olympic Games
+  + Mario & Sonic at the Olympic Winter Games
 
 
 # Cifrado en consolas

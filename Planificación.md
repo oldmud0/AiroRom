@@ -13,11 +13,11 @@ etapas del trabajo._
 ## Escoger juegos a estudiar
 - [ ] Encontrar proyectos abandonados *(20/10 - 26/10)*
 - [x] Ordenar juegos por número de ventas *(27/10 - 05/11)*
-- [ ] Ordenar desarrolladores por juegos en mercado *(06/11 - 09/11)*
+- [x] Ordenar desarrolladores por juegos en mercado *(06/11 - 09/11)*
 
 
 ## Desarrollo de software de ayuda
-- [ ] Clasificador de juegos *(27/10 - 02/11)*
+- [x] Clasificador de juegos *(27/10 - 02/11)*
 - [ ] Depurador de código a distancia *(10/11 - 30/11)*
 - [ ] Gestor de base de datos de resultados *(01/12 - 07/12)*
 - [ ] Interfaz de ayuda a la exploración de juegos *(08/12 - 21/12)*

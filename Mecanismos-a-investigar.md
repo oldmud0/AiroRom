@@ -7,7 +7,7 @@
 | Nombre del juego                              | Plataforma | Detalles                    |
 | --------------------------------------------- | ---------- | --------------------------- |
 | WWII - Tank Battles                           | PS2        | Cifrado desconocido         |
-| Brave fencer Musashi                          | PSX        | Localización de textos      |
+| [Brave fencer Musashi](Brave-fencer-Musashi)  | PSX        | Localización de textos      |
 | Resident Evil 2                               | DC y GC    | Falta compresor             |
 | Dragon Warrior VII                            | PSX        | Demasiada protección        |
 | Chi's Sweet Home: Chi ga Ouchi ni Yatte Kita! | NDS        | Falta insercción imágenes   |

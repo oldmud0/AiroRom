@@ -6,6 +6,7 @@
 
 | Nombre del juego                              | Plataforma | Detalles                    |
 | --------------------------------------------- | ---------- | --------------------------- |
+| [Boku no Natsuyasumi](Boku-no-Natsuyasumi)    | PSX y PSP  | Buscar textos e imágenes    |
 | WWII - Tank Battles                           | PS2        | Cifrado desconocido         |
 | [Brave fencer Musashi](Brave-fencer-Musashi)  | PSX        | Localización de textos      |
 | Resident Evil 2                               | DC y GC    | Falta compresor             |

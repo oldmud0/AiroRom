@@ -2,7 +2,7 @@
 *Lista de juegos a analizar durante el trabajo.*
 
 ## Proyectos abandonados
-*Proyectos de la NDS abandonados extraídos de [GbaTemp NDS Romhacking forum](http://gbatemp.net/threads/translation-index-thread.193740/).*
+*Proyectos de la NDS abandonados extraídos de [GbaTemp NDS Romhacking forum](http://gbatemp.net/threads/translation-index-thread.193740/) y [Romhacking.net](http://www.romhacking.net/abandoned).*
 
 | Nombre del juego                              | Plataforma | Detalles                    |
 | --------------------------------------------- | ---------- | --------------------------- |
@@ -29,6 +29,7 @@
 | Nostalgia                                     | NDS        | Traducción oficial          |
 | Super Robot Wars K                            | NDS        | Abandonado                  |
 | Super Robot Taisen OG Saga: Mugen no Frontier | NDS        | Falta editor de textos      |
+| Dai Kaijuu Monogatari                         | SNES       | Problemas técnicos          |
 
 
 ## Juegos interesantes

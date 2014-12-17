@@ -5,12 +5,19 @@ Más información y herramientas se pueden encontrar en [este repositorio](https
 # Archivos
 Todos los archivos del juego están comprimidos en un archivo de tipo **paquete** con jerarquía por carpetas: *cdimg0.img*. Las referencias / punteros a dichos archivos están guardados en otro ficher: *cdimg.idx*. La información detalla del formato se puede encontrar en [esta wiki](https://github.com/pleonex/Boku-no-Natsuyasumi/wiki/Pack-file-cdimg).
 
-# Textos
-Los textos no han sido encontrados todavía pero se ha visto que una parte de los archivos están comprimidos. Son aquellos con extensión `.gzx` y cuya compresión es **GZIP**. Para descomprimirlos es necesario quitar los *4 primeros bytes* pues no corresponden a la estructura clásica indicando seguramente el tamaño comprimido o descomprimido. Para descomprimirlos se puede usar el siguiente comando:
-
+Una parte de los archivos están comprimidos con **GZip**.
+ * _Extensión `.gz`_: archivos con compresión *GZip* normal. Se pueden descomprimir con:
 ``` shell
-# Input file is "file.bin.gzx"
-# Output file is "file.bin"
+# Remplaza "file" por el nombre del fichero.
+gzip -d file.bin.gz
+```
+
+ * _Extensión `.gzx`_: tienen un cabecera de *4 bytes* indicando el tamaño descomprimido final, para descomprimirlos con herramientas estándares hay que quitarla. Se pueden descomprimir con:
+``` shell
+# Remplaza "file" por el nombre del fichero.
 dd if=file.bin.gzx bs=512k | { dd bs=4 count=1 of=/dev/null; dd bs=512k of=file.bin.gz; }
 gzip -d file.bin.gz
 ```
+
+# Textos
+Están dentro de los archivos comprimidos con *GZip* de la carpeta `map/gz`. Estos archivos son paquetes que agrupan varios diálogos. Todavía no se ha investigado ese formato de fichero. Los textos siguen una tabla no estándar que se está generando actualmente y que coincide con la fuente del juego.

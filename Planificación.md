@@ -11,7 +11,7 @@ etapas del trabajo._
 
 
 ## Escoger juegos a estudiar
-- [ ] Encontrar proyectos abandonados *(20/10 - 26/10)*
+- [X] Encontrar proyectos abandonados *(20/10 - 26/10)*
 - [x] Ordenar juegos por número de ventas *(27/10 - 05/11)*
 - [x] Ordenar desarrolladores por juegos en mercado *(06/11 - 09/11)*
 

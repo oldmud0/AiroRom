@@ -18,9 +18,9 @@ etapas del trabajo._
 
 ## Desarrollo de software de ayuda
 - [x] Clasificador de juegos *(27/10 - 02/11)*
-- [ ] Depurador de código a distancia *(10/11 - 30/11)*
-- [ ] Gestor de base de datos de resultados *(01/12 - 07/12)*
-- [ ] Interfaz de ayuda a la exploración de juegos *(08/12 - 21/12)*
+- [ ] Depurador remoto - [NitroDebugger](https://github.com/pleonex/NitroDebugger/) *(10/11 - 30/11)*
+- [ ] Gestor de base de datos de algoritmos - [DataBrithm](https://github.com/pleonex/AiroRom/tree/master/DataBrithm) *(01/12 - 07/12)*
+- [ ] Interfaz de ayuda a la exploración de juegos - New Mini Tinke *(08/12 - 21/12)*
 
 
 ## Análisis de juegos

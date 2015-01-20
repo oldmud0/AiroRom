@@ -63,7 +63,7 @@
 | Nintendogs                                   | 24.60                |
 | Mario Kart DS                                | 22.95                |
 | Brain Age: Train Your Brain in Minutes a Day | 20.08                |
-| Pokémon Diamond / Pearl Version              | 18.16                |
+| [Pokémon Diamond / Pearl Version](Pokémon-Perla---Diamante) | 18.16 |
 | Brain Age 2: More Training in Minutes a Day  | 15.26                |
 | Pokémon Black / White Version                | 14.87                |
 | Animal Crossing: Wild World                  | 12.01                |

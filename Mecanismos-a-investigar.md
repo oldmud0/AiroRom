@@ -42,7 +42,7 @@
 | Elite Beat Agents                                       | Contiene canciones                      |
 | Osu! Tatakae! Ouendan!                                  | Contiene canciones                      |
 | Moero! Nekketsu Rhythm Tamashii Osu! Tatakae! Ouendan 2 | Contiene canciones                      |
-| Layton - The Last Specter                               | Sistema complejo de ficheros            |
+| [Layton - The Last Specter](Professor-Layton-and-The-Last-Specter)| Sistema complejo de ficheros  |
 | Ninokuni: La ira de la bruja blanca                     | Contiene libro                          |
 | Pokémon Black / White version                           | Cifrado en textos                       |
 | Pokémon Conquest                                        | Cifrado en textos                       |

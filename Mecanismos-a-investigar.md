@@ -72,7 +72,7 @@
 
 
 ## Publicadores con más juegos en el mercado
-*Datos obtenidos a partir del script desarrollado __scenadvorter__.
+*Datos obtenidos a partir del script desarrollado [scenadvorter](https://github.com/pleonex/AiroRom/blob/master/Scenadvorter/scenadvorter.py).
 Datos de ventas por publicador obtenidos de [VGChartz](http://www.vgchartz.com/gamedb/?name=&publisher=&platform=DS&genre=&minSales=0&results=200).*
 
 1. Nintendo: 684 juegos

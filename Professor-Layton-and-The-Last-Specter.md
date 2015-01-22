@@ -19,9 +19,9 @@ Los archivos principales del juego tienen la extensión `.fa` y una cabecera `GF
 | 0x000C | 0x04   | Puntero a bloque 3 |
 | 0x0010 | 0x04   | Puntero a bloque 4 |
 | 0x0014 | 0x04   | Puntero a bloque 5 |
-| 0x0018 | 0x04   | ?? |
-| 0x001C | 0x04   | ?? |
-| 0x0020 | 0x04   | ?? |
+| 0x0018 | 0x04   | Número de carpetas |
+| 0x001C | 0x04   | Número de archivos |
+| 0x0020 | 0x04   | ([0x18]+[0x1C]) * 8 |
 | 0x0024 | 0x04   | ?? |
 | 0x0028 | ....   | Bloques codificados |
 
@@ -31,8 +31,11 @@ Los archivos principales del juego tienen la extensión `.fa` y una cabecera `GF
 La primera palabra es de control con la siguiente información:
 * Bits 0-2: Tipo de algoritmo.
   * 0: ¿Quizás "no codificado"?
-  * 1: Por confirmar LZSS
+  * 1: LZSS
   * 2: Huffman 4 bits
   * 3: Huffman 8 bits
   * 4: RLE 8 bits
 * Bits 3-31: Tamaño del bloque descomprimido.
+
+A partir de estos datos se puede convertir la cabecera a la utilizada en las
+compresiones de la BIOS y poder utilizar los mismos [programas](http://romxhack.esforos.com/compresiones-para-las-consolas-gba-ds-de-nintendo-t117).

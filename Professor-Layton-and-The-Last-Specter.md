@@ -44,13 +44,23 @@ compresiones de la BIOS y poder utilizar los mismos [programas](http://romxhack.
 En este bloque se encuentra una lista con información sobre cada una de las carpetas
 que el contenedor tiene. Cada entrada son 8 bytes y corresponden a una carpeta.
 
+| Offset | Tamaño | Descripción |
+| ------ | ------ | ----------- |
+| 0x00   | 0x02   | Hash del nombre |
+| 0x02   | 0x02   | Número de archivos |
+| 0x04   | 0x02   | FatOffset[0:15] |
+| 0x06   | 0x02   | FatOffset[15:31] |
+
+Para localizar un archivo primero hay que localizar la carpeta para
+obtener la posición relativa en el FAT.
+
 ### Bloque 2: File Allocation Table (FAT)
 Esta tabla contiene la información necesaria para recuperar un fichero del paquete.
 Cada entrada de la lista son 8 bytes y corresponden a un fichero.
 
 | Offset | Tamaño | Descripción |
 | ------ | ------ | ----------- |
-| 0x00   | 0x02   | File hash |
+| 0x00   | 0x02   | Hash del nombre |
 | 0x02   | 0x02   | Offset[0:15] |
 | 0x04   | 0x02   | Tamaño[0:15] |
 | 0x06   | 0x02   | `0-11: Offset[16:27]`, `12-15: Tamaño[16:18]` |
@@ -61,3 +71,10 @@ y es relativo al valor `dataPtr` de la cabecera.
 Como se puede ver por las direcciones, este contenedor tiene un **tamaño máximo** de
 `2^28 = 268435456 bytes = 256 MB`, siendo el tamaño máximo de sus subarchivos
 `2^19 = 524288 bytes = 512 KB`
+
+### Bloque 3: Desconocido (¿Nulo?)
+
+### Bloque 4: File & Folder Name Table
+En este bloque están los nombres de directores y nombres por separado.
+Todavía no sé una relación para unir nombre de fichero a directorio que lo
+contiene.

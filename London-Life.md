@@ -58,3 +58,30 @@ Una implementación en C# se puede encontrar [aquí](https://github.com/pleonex/
     1. El número de bytes a copiar serán los 7 bits restantes del token.
 
 # Formato textos MSG
+Codificación usada en un único archivo para contener todos los textos.
+
+| Offset | Tamaño | Descripción |
+| ------ | ------ | ----------- |
+| 0x00   | 0x04   | Cabecera `MGS ` |
+| 0x04   | 0x04   | Número de punteros |
+| 0x08   | 0x04*i | Puntero a la entrada de texto |
+
+## Caracteres de control:
+Aquellos bytes comprendidos entre 0xF0 y 0xFF. En ese caso el formato es el siguiente (cada letra son 4-bits):
+```
+FF FF NN NN P...
+F: Formato, ver a continuación.
+N: Número de bytes como parámetros incluyendo este campo.
+P: Parámetros.
+```
+Los valores posibles del formato son:
+* `0xF0`: Salto de línea.
+* `0xF1`: Espera a que el usuario pulse A.
+* `0xF2`: Cambiar el color del texto.
+* `0xF3`: Espera el tiempo indicado.
+* `0xF4`: Se reemplaza por un nombre.
+* `0xF5`: Realiza una pregunta.
+* `0xF9`: Reemplazado por un texto.
+* `0xFA`: Desconocido
+* `0xFB`: Espera que un proceso termine (como guardar)
+* `0xFC`: Desconocido

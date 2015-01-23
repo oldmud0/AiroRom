@@ -7,30 +7,30 @@
 | Nombre del juego                              | Plataforma | Detalles                    |
 | --------------------------------------------- | ---------- | --------------------------- |
 | [Boku no Natsuyasumi](Boku-no-Natsuyasumi)    | PSX y PSP  | Buscar textos e imágenes    |
-| [Minijuego London Life](London-Life)          | NDS        | No hay gente interesada     |
-| WWII - Tank Battles                           | PS2        | Cifrado desconocido         |
-| [Brave fencer Musashi](Brave-fencer-Musashi)  | PSX        | Localización de textos      |
-| Resident Evil 2                               | DC y GC    | Falta compresor             |
+| WWII - Tank Battles                           | PS2        | Descompresor de archivos    |
+| [Brave fencer Musashi](Brave-fencer-Musashi)  | PSX        | Decodificador de textos     |
 | Dragon Warrior VII                            | PSX        | Demasiada protección        |
-| Chi's Sweet Home: Chi ga Ouchi ni Yatte Kita! | NDS        | Falta insercción imágenes   |
-| Code Geass: Hangyaku no Lelouch               | NDS        | Falta editor de textos      |
+| Dai Kaijuu Monogatari                         | SNES       | Problemas técnicos          |
+| Resident Evil 2                               | DC y GC    | Compresor                   |
+| Chi's Sweet Home: Chi ga Ouchi ni Yatte Kita! | NDS        | Insercción imágenes         |
+| Code Geass: Hangyaku no Lelouch               | NDS        | Editor de textos            |
+| Custom Beat Battle Draglade 2                 | NDS        | Editor de textos            |
+| Mobile Suit Gundam 00                         | NDS        | Editor de textos            |
+| Super Robot Taisen OG Saga: Mugen no Frontier | NDS        | Editor de textos            |
+| Mysterious Dungeon: Shiren the Wanderer 2     | NDS        | Hacks & Editor de textos    |
+| [Minijuego London Life](London-Life)          | NDS        | Abandonado                  |
 | Cross Treasures                               | NDS        | Abandonado                  |
-| Custom Beat Battle Draglade 2                 | NDS        | Falta editor de textos      |
 | Element Hunters                               | NDS        | Abandonado                  |
+| Hajime no Ippo The Fighting! DS               | NDS        | Abandonado                  |
+| Naruto: Ninja Destiny 3                       | NDS        | Abandonado                  |
+| Super Robot Wars K                            | NDS        | Abandonado                  |
 | Final Fantasy: The 4 Warriors of Light        | NDS        | Traducción oficial          |
 | Fire Emblem: Shadow Dragon                    | NDS        | Traducción oficial          |
 | Glory of Heracles                             | NDS        | Traducción oficial          |
-| Hajime no Ippo The Fighting! DS               | NDS        | Abandonado                  |
 | Inazuma Eleven                                | NDS        | Traducción oficial          |
 | Kingdom Hearts 358/2 Days                     | NDS        | Traducción oficial          |
-| Mobile Suit Gundam 00                         | NDS        | Falta editor de textos      |
-| Mysterious Dungeon: Shiren the Wanderer 2     | NDS        | Hacks & Editor de textos    |
 | Naruto: Ninja Destiny 2                       | NDS        | Traducción oficial          |
-| Naruto: Ninja Destiny 3                       | NDS        | Abandonado                  |
 | Nostalgia                                     | NDS        | Traducción oficial          |
-| Super Robot Wars K                            | NDS        | Abandonado                  |
-| Super Robot Taisen OG Saga: Mugen no Frontier | NDS        | Falta editor de textos      |
-| Dai Kaijuu Monogatari                         | SNES       | Problemas técnicos          |
 
 
 ## Juegos interesantes

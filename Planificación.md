@@ -7,7 +7,7 @@ etapas del trabajo._
 - [ ] Algoritmos existentes DRM *(02/10 - 09/10)*
 - [x] Identificar las características de algoritmos *(10/10 - 12/10)*
 - [x] Identificar categorías de algoritmos *(13/10 - 15/10)*
-- [ ] Establecer requisitos para algoritmos seguros *(16/10 - 19/10)*
+- [x] Establecer requisitos para algoritmos seguros *(16/10 - 19/10)*
 
 
 ## Escoger juegos a estudiar
@@ -25,7 +25,7 @@ etapas del trabajo._
 
 ## Análisis de juegos
 - [ ] Comunicaciones *(08/12 - 21/12)*
-- [ ] Primera ronda: 10 juegos *(22/12 - 11/01)*
+- [ ] Primera ronda: 10 juegos (4/10) *(22/12 - 11/01)*
 - [ ] Segunda ronda: 5 juegos  *(12/01 - 22/02)*
 - [ ] Tercera ronda: 10 juegos *(23/02 - 05/04)*
 - [ ] Conclusiones *(30/03 - 26/04)*

@@ -19,6 +19,16 @@ Contiene archivos `DENC` en su interior.
 Además sobre cada archivo, 4 bytes antes del mismo, está su tamaño.
 
 # Contenedor ARCHIVE
+Contiene archivos comprimidos con las compresiones de la BIOS (LZSS, HUFFMAN y RLE).
+
+| Offset | Tamaño | Descripción |
+| ------ | ------ | ----------- |
+| 0x00   | 0x04   | Tamaño del FAT |
+| 0x04   | [0x00] | FAT |
+
+Por cada archivo hay 8 bytes de información:
+1. 4 bytes: Offset absoluto al archivo.
+2. 4 bytes: Tamaño del archivo.
 
 # Compresión DENC
 

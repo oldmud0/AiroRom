@@ -36,23 +36,24 @@
 ## Juegos interesantes
 | Nombre del juego                                        | Motivo                                  |
 | ------------------------------------------------------- | --------------------------------------- |
-| 100 Classic book collection                             | Contiene libros. Nuevos libros por DLC  |
+| [Layton - The Last Specter](Professor-Layton-and-The-Last-Specter)| Sistema complejo de ficheros  |
+| 100 Classic book collection                             | Contiene e-books y descargables por DLC |
+| Ninokuni: La ira de la bruja blanca                     | Contiene e-book                         |
 | Guitar Hero: On Tour Series                             | Contiene canciones                      |
 | Guitar Rock Tour                                        | Contiene canciones                      |
-| ¡Cocina Conmigo! ¿Qué Preparamos Hoy?                   | Contiene recetas de restaurantes        |
 | Elite Beat Agents                                       | Contiene canciones                      |
 | Osu! Tatakae! Ouendan!                                  | Contiene canciones                      |
 | Moero! Nekketsu Rhythm Tamashii Osu! Tatakae! Ouendan 2 | Contiene canciones                      |
-| [Layton - The Last Specter](Professor-Layton-and-The-Last-Specter)| Sistema complejo de ficheros  |
-| Ninokuni: La ira de la bruja blanca                     | Contiene libro                          |
-| Pokémon Black / White version                           | Cifrado en textos                       |
-| Pokémon Conquest                                        | Cifrado en textos                       |
 | Jam Sessions                                            | Contiene canciones                      |
 | Ontamarama                                              | Contiene canciones                      |
 | Taiko no Tatsujin DS Series                             | Contiene canciones                      |
 | Lego Rock Band                                          | Contiene canciones                      |
 | Daigasso! Band Brothers                                 | Contiene canciones                      |
 | High School Musical: ¡Prepárate para el musical!        | Contiene canciones                      |
+| ¡Cocina Conmigo! ¿Qué Preparamos Hoy?                   | Contiene recetas de restaurantes        |
+| Pokémon Conquest                                        | Cifrado en textos                       |
+| [Pokémon Diamond / Pearl Version](Pokémon-Perla---Diamante)| Cifrado en textos, archivos y partida |
+| Pokémon Black / White version                           | Cifrado en textos, archivos y partida   |
 
 
 ## Juegos más vendidos en NDS

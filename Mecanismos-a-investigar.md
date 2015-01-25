@@ -51,6 +51,7 @@
 | Daigasso! Band Brothers                                 | Contiene canciones                      |
 | High School Musical: ¡Prepárate para el musical!        | Contiene canciones                      |
 | ¡Cocina Conmigo! ¿Qué Preparamos Hoy?                   | Contiene recetas de restaurantes        |
+| Last Window The Secret of Cape West                     | Cifrado en textos                       |
 | Gakuen Hetalia                                          | Cifrado en textos                       |
 | Pokémon Conquest                                        | Cifrado en textos                       |
 | [Pokémon Diamond / Pearl Version](Pokémon-Perla---Diamante)| Cifrado en textos, archivos y partida |

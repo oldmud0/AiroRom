@@ -51,6 +51,7 @@
 | Daigasso! Band Brothers                                 | Contiene canciones                      |
 | High School Musical: ¡Prepárate para el musical!        | Contiene canciones                      |
 | ¡Cocina Conmigo! ¿Qué Preparamos Hoy?                   | Contiene recetas de restaurantes        |
+| Gakuen Hetalia                                          | Cifrado en textos                       |
 | Pokémon Conquest                                        | Cifrado en textos                       |
 | [Pokémon Diamond / Pearl Version](Pokémon-Perla---Diamante)| Cifrado en textos, archivos y partida |
 | Pokémon Black / White version                           | Cifrado en textos, archivos y partida   |

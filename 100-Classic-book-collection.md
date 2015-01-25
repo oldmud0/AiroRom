@@ -1,7 +1,9 @@
 **100 Classic book collection** es un *juego* para la *Nintendo DS* desarrollado por *HarperCollins* en 2008. No se trata de un juego en sí, si no de una librearía de *ebooks*. Se distribuyó en Japón, América y Europa posiblemente con diferentes libros. Además de los libros que incluye, también se pueden descargar gratuitamente hasta 10 como DLC.
 
 # Libros
-Los libros vienen **cifrados** por sus derechos de autor con algún algoritmo de **DRM**. En primer lugar están estructurados en *23 bloques*, pudiendo estar algunos vacíos.
+Están estructurados en *23 bloques*, pudiendo estar algunos vacíos.
+Excepto el primer bloque, el resto están codificados con la compresión
+de la *BIOS* *LZSS*. No hay mayor protección.
 
 | Offset | Tamaño | Descripción |
 | ------ | ------ | ----------- |

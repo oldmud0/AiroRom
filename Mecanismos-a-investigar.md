@@ -56,6 +56,7 @@
 | Pokémon Conquest                                        | Cifrado en textos                       |
 | [Pokémon Diamond / Pearl Version](Pokémon-Perla---Diamante)| Cifrado en textos, archivos y partida |
 | Pokémon Black / White version                           | Cifrado en textos, archivos y partida   |
+| [Trauma Center - Under the Knife 2](Trauma-Center---Under-the-Knife-2)|Codificación en textos |
 
 
 ## Juegos más vendidos en NDS

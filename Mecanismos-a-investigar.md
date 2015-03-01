@@ -57,6 +57,9 @@
 | [Pokémon Diamond / Pearl Version](Pokémon-Perla---Diamante)| Cifrado en textos, archivos y partida |
 | Pokémon Black / White version                           | Cifrado en textos, archivos y partida   |
 | [Trauma Center - Under the Knife 2](Trauma-Center---Under-the-Knife-2)|Codificación en textos |
+| Clash of Clans (iOS)                                    | Compra de gemas en la aplicación        |
+| Duet (iOS)                                              | Compra de música y nuevos niveles       |
+| Trivial Crack (iOS)                                     | Competición on-line                     |
 
 
 ## Juegos más vendidos en NDS

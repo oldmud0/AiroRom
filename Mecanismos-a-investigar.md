@@ -50,7 +50,7 @@
 | Lego Rock Band                                          | Contiene canciones                      |
 | Daigasso! Band Brothers                                 | Contiene canciones                      |
 | High School Musical: ¡Prepárate para el musical!        | Contiene canciones                      |
-| ¡Cocina Conmigo! ¿Qué Preparamos Hoy?                   | Contiene recetas de restaurantes        |
+| [¡Cocina Conmigo! ¿Qué Preparamos Hoy?](¡Cocina-Conmigo!-¿Qué-Preparamos-Hoy%3F) | Contiene recetas |
 | Last Window The Secret of Cape West                     | Cifrado en textos                       |
 | Gakuen Hetalia                                          | Cifrado en textos                       |
 | Pokémon Conquest                                        | Cifrado en textos                       |

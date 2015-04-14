@@ -38,7 +38,8 @@
 | ------------------------------------------------------- | --------------------------------------- |
 | [Layton - The Last Specter](Professor-Layton-and-The-Last-Specter)| Sistema complejo de ficheros  |
 | [100 Classic book collection](100-Classic-book-collection)| Contiene e-books y descargables por DLC |
-| Ninokuni: La ira de la bruja blanca                     | Contiene e-book                         |
+| [Ninokuni: La ira de la bruja blanca](Ninokuni---La-ira-de-la-bruja-blanca)| Contiene e-book      |
+| Ninokuni: El Mago de las Tinieblas                      | Contiene cifrado de archivos            |
 | Guitar Hero: On Tour Series                             | Contiene canciones                      |
 | Guitar Rock Tour                                        | Contiene canciones                      |
 | Elite Beat Agents                                       | Contiene canciones                      |

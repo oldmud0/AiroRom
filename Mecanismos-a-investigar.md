@@ -40,19 +40,21 @@
 | [100 Classic book collection](100-Classic-book-collection)| Contiene e-books y descargables por DLC |
 | [Ninokuni: La ira de la bruja blanca](Ninokuni---La-ira-de-la-bruja-blanca)| Contiene e-book      |
 | Ninokuni: El Mago de las Tinieblas                      | Contiene cifrado de archivos            |
-| Guitar Hero: On Tour Series                             | Contiene canciones                      |
-| Guitar Rock Tour                                        | Contiene canciones                      |
-| Elite Beat Agents                                       | Contiene canciones                      |
-| Osu! Tatakae! Ouendan!                                  | Contiene canciones                      |
+| x Guitar Hero: On Tour Series                           | Contiene canciones                      |
+| x Guitar Hero: Decades                                  | Contiene canciones                      |
+| x Guitar Hero: Modern Hits                              | Contiene canciones                      |
+| x Guitar Rock Tour                                      | Contiene canciones                      |
+| x Elite Beat Agents                                     | Contiene canciones                      |
+| x Osu! Tatakae! Ouendan!                                | Contiene canciones                      |
 | Moero! Nekketsu Rhythm Tamashii Osu! Tatakae! Ouendan 2 | Contiene canciones                      |
-| Jam Sessions                                            | Contiene canciones                      |
+| x Jam Sessions                                          | Contiene canciones                      |
 | Ontamarama                                              | Contiene canciones                      |
 | Taiko no Tatsujin DS Series                             | Contiene canciones                      |
 | Lego Rock Band                                          | Contiene canciones                      |
 | Daigasso! Band Brothers                                 | Contiene canciones                      |
 | High School Musical: ¡Prepárate para el musical!        | Contiene canciones                      |
 | [¡Cocina Conmigo! ¿Qué Preparamos Hoy?](¡Cocina-Conmigo!-¿Qué-Preparamos-Hoy%3F) | Contiene recetas |
-| Last Window The Secret of Cape West                     | Cifrado en textos                       |
+| x Last Window The Secret of Cape West                   | Cifrado en textos                       |
 | Gakuen Hetalia                                          | Cifrado en textos                       |
 | Pokémon Conquest                                        | Cifrado en textos                       |
 | [Pokémon Diamond / Pearl Version](Pokémon-Perla---Diamante)| Cifrado en textos, archivos y partida |

@@ -59,3 +59,11 @@ Está codificado de forma horizontal con 2 BPP. El primer color es el fondo del 
 ### Variable Width Table (VWT)
 Aquí se especifica el ancho de cada caracter.
 Por cada caracter hay una entrada de `un byte` indicando el ancho.
+
+
+## Imágenes
+Están cifradas.
+
+
+## Audio
+No está cifrado, son secuencias (MIDI).

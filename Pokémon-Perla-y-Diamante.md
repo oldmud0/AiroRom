@@ -62,7 +62,7 @@ Por cada caracter hay una entrada de `un byte` indicando el ancho.
 
 
 ## Imágenes
-Están cifradas.
+No están cifradas.
 
 
 ## Audio

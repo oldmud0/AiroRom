@@ -47,9 +47,14 @@ La salida será un texto con una codificación propia. Para hallar esta se puede
 | 0x00   | 0x04   | Puntero a datos |
 | 0x04   | 0x04   | Puntero a VWT |
 | 0x08   | 0x04   | Tamaño sección VWT |
+| 0x0C   | 0x01   | Ancho |
+| 0x0D   | 0x01   | Alto  |
+| 0x0E   | 0x01   | BPP ancho |
+| 0x0F   | 0x01   | BPP alto |
 
 ### Datos
 Cada entrada es de `64 bytes`.
+Está codificado de forma horizontal con 2 BPP. El primer color es el fondo del cuadrado. El segundo color el fondo del caracter, y los dos siguientes para el caracter en sí. Con Tinke se puede ver.
 
 ### Variable Width Table (VWT)
 Aquí se especifica el ancho de cada caracter.

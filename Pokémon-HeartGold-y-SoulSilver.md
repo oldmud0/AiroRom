@@ -11,7 +11,8 @@ Mismo formato que en [Pokémon Perla y Diamante](Pokémon-Perla-y-Diamante#fuent
 Protección por nombre de ficheros. Los primeros textos (¿todos?) están en *a/0/1/6*. También en *pbr/font.arc*.
 
 ## Imágenes
-Están cifradas.
+Están cifradas al igual que en [Pokémon Perla y Diamante](Pokémon-Perla-y-Diamante#imágenes).
+En este caso aunque las claves son las mismos se empieza a descifrar por el comienzo de los datos en lugar de por el final (¿da igual?).
 
 ## Audio
 No está cifrado, son secuencias (MIDI).

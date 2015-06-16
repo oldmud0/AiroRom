@@ -60,8 +60,16 @@ Por cada caracter hay una entrada de `un byte` indicando el ancho.
 
 
 ## Imágenes
-Están cifradas.
+Están cifradas con el siguiente algoritmo solo los pokémons (*pokegra.arc*).
 
+Está cifrado solo los datos de la imagen no las cabeceras. De esta forma los programas estándar son capaces de abrirlos pero se ve basura lo que puede pensar que podría ser porque son datos aleatorios que no se usan.
+
+Los datos de la imagen tendrán siempre el tamaño constante 0x1900 aunque no se use todos los datos luego en la cabecera se especificará cuales se usan. Se descifra empezando por el final hacia el principio valores de 16-bits. Se usa la operación XOR sobre una clave de 16-bits también que va cambiando.
+
+1. La clave inicial serán los dos últimos bytes del fichero.
+2. Por cada valor de 16-bits...
+  1. Descifrar: `valor = valor XOR clave`
+  2. Actualizar clave: `clave = (uint)(clave * 0x41C64E6D + 0x6073)`
 
 ## Audio
 No está cifrado, son secuencias (MIDI).

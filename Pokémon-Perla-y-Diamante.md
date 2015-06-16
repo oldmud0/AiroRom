@@ -16,14 +16,12 @@ La clave de la i-ésima entrada se forma de la siguiente manera:
 clave = (ushort)(clave_base * 0x2FD * (i + 1))
 ```
 
-Además es redundante pues se incluye la clave del offset y del tamaño junto a él (son iguales). Para descifrar basta una operación XOR.
+Para descifrar basta una operación XOR. Cabe destacar un fallo de seguridad pues los valores de offset y tamaño son de 32 bits pero en la mayoría de los casos sólo se usan 16-bits. Esto hace que los dos últimos bytes suelan ser 0. Como la clave es de 16-bits para hacerla de 32-bits simplemente se concatena dos veces, esto hace que al cifrar esos valores, se queda almacenada la clave en texto plano en esos dos bytes.
 
 | Offset | Tamaño | Descripción |
 | ------ | ------ | ----------- |
-| 0x00   | 0x02   | Offset cifrado |
-| 0x02   | 0x02   | Clave del offset |
-| 0x04   | 0x02   | Tamaño cifrado |
-| 0x06   | 0x02   | Clave del tamaño |
+| 0x00   | 0x04   | Offset cifrado |
+| 0x04   | 0x04   | Tamaño cifrado |
 
 ### Texto
 El texto se encontrará en el offset indicado con el tamaño indicado.
@@ -62,7 +60,7 @@ Por cada caracter hay una entrada de `un byte` indicando el ancho.
 
 
 ## Imágenes
-No están cifradas.
+Están cifradas.
 
 
 ## Audio

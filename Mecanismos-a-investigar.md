@@ -59,6 +59,7 @@
 | Pokémon Conquest                                        | Cifrado en textos                       |
 | [Pokémon Diamond / Pearl Version](Pokémon-Perla-y-Diamante)| Cifrado en textos, archivos y partida |
 | Pokémon Black / White version                           | Cifrado en textos, archivos y partida   |
+| [Pokémon HeartGold / SouldSilver](Pokémon-HeartGold-y-SoulSilver)| Cifrado en textos, archivos y partida |
 | [Trauma Center - Under the Knife 2](Trauma-Center---Under-the-Knife-2)|Codificación en textos |
 | Clash of Clans (iOS)                                    | Compra de gemas en la aplicación        |
 | x Duet (iOS)                                            | Compra de música y nuevos niveles       |

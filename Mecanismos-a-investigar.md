@@ -55,7 +55,7 @@
 | High School Musical: ¡Prepárate para el musical!        | Contiene canciones                      |
 | [¡Cocina Conmigo! ¿Qué Preparamos Hoy?](¡Cocina-Conmigo!-¿Qué-Preparamos-Hoy%3F) | Contiene recetas |
 | x Last Window The Secret of Cape West                   | Cifrado en textos                       |
-| Gakuen Hetalia                                          | Cifrado en textos                       |
+| [Gakuen Hetalia](Gakuen-Hetalia)                        | Cifrado en textos                       |
 | Pokémon Conquest                                        | Cifrado en textos                       |
 | [Pokémon Diamond / Pearl Version](Pokémon-Perla-y-Diamante)| Cifrado en textos, archivos y partida |
 | [Pokémon Black / White version](Pokémon-Blanco-y-Negro)| Cifrado en textos, archivos y partida |

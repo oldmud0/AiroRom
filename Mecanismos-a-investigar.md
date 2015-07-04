@@ -56,14 +56,14 @@
 | [¡Cocina Conmigo! ¿Qué Preparamos Hoy?](¡Cocina-Conmigo!-¿Qué-Preparamos-Hoy%3F) | Contiene recetas |
 | x Last Window The Secret of Cape West                   | Cifrado en textos                       |
 | [Gakuen Hetalia](Gakuen-Hetalia)                        | Cifrado en textos                       |
-| Pokémon Conquest                                        | Cifrado en textos                       |
+| x Pokémon Conquest                                      | Cifrado en textos                       |
 | [Pokémon Diamond / Pearl Version](Pokémon-Perla-y-Diamante)| Cifrado en textos, archivos y partida |
-| [Pokémon Black / White version](Pokémon-Blanco-y-Negro)| Cifrado en textos, archivos y partida |
 | [Pokémon HeartGold / SouldSilver](Pokémon-HeartGold-y-SoulSilver)| Cifrado en textos, archivos y partida |
+| [Pokémon Black / White version](Pokémon-Blanco-y-Negro)| Cifrado en textos, archivos y partida |
 | [Trauma Center - Under the Knife 2](Trauma-Center---Under-the-Knife-2)|Codificación en textos |
 | Clash of Clans (iOS)                                    | Compra de gemas en la aplicación        |
 | x Duet (iOS)                                            | Compra de música y nuevos niveles       |
-| Trivial Crack (iOS)                                     | Competición on-line                     |
+| Preguntados (iOS)                                       | Competición on-line                     |
 
 
 ## Juegos más vendidos en NDS

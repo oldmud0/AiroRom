@@ -1,4 +1,4 @@
-**Brave fencer Musashi** es un juego para la *Play Station 1* (PS1 / PSX) desarrollado por *Square Enix* en 1998. Es de género *rol de acción* y solo está disponible en **japonés**. Según *Lord Raptor* ha habido varios intentos de traducción pero todos fracasaron al no poder encontrar los textos.
+**Brave fencer Musashi** es un juego para la *Play Station 1* (PS1 / PSX) desarrollado por *Square Enix* en 1998. Es de género *rol de acción* y solo está disponible en **japonés** e **inglés**. Según *Lord Raptor* ha habido varios intentos de traducción pero todos fracasaron al no poder encontrar los textos.
 
 # Textos
 Los textos se encuentran **comprimidos** con una variante de **LZSS** dentro de algunos archivos del juego. A continuación se incluye el código en ensamblador (MIPS R3000) para descomprimirlos:
